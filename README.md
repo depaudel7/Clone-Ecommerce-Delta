@@ -1,21 +1,13 @@
-# E-Commerce Website
+# E-Commerce Website(Delta)
 
 A Ecommerce Website made with React.js Framework.
 
 
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
 - Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+- Fully Responsiv
 
 
 
@@ -24,13 +16,13 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git https://github.com/depaudel7/Clone-Ecommerce-Delta
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd Demo
 ```
 
 Install dependencies
@@ -47,12 +39,6 @@ Start the server
 
 
 
-## Tech Stack
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
 
 ## Contributing
 
@@ -62,6 +48,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+If you have any feedback, please reach out to me
 
 
